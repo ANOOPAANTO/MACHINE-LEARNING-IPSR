@@ -14,4 +14,4 @@ SAT Score
 
 
 MAX TEMP COLAB
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ANOOPAANTO/MACHINE-LEARNING-IPSR/blob/master/weather%20-temp.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/ANOOPAANTO/7d13647c6055b51f5aaba70e8e6e2dc4/weather-temp.ipynb)
