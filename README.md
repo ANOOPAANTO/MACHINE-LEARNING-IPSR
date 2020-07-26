@@ -11,3 +11,7 @@ welcome
 
 SAT Score
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ANOOPAANTO/MACHINE-LEARNING-IPSR/master?filepath=SAT%20Score.ipynb)
+
+
+MAX TEMP COLAB
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ANOOPAANTO/MACHINE-LEARNING-IPSR/blob/master/weather%20-temp.ipynb)
