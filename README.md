@@ -17,5 +17,5 @@ MAX TEMP COLAB
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/ANOOPAANTO/7d13647c6055b51f5aaba70e8e6e2dc4/weather-temp.ipynb)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/gist/Anoop-A-Anto/f798a599740146ccc8a90b64a8812df0/pycaret_data_preprocessing_data_cleaning.ipynb?authuser=1)
+
+
